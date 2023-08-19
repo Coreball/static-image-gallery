@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+
+.gallery div {
+    width: 25%;
+}
+
+.gallery img {
+    width: 100%;
+}
